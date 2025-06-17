@@ -14,7 +14,8 @@
 ## 3.Attacking
      sqlmap -u <website link> http://testphp.vulnweb.com/listproducts.php?cat=1  -dbs
 
-     ![Screenshot 2025-05-29 164651](https://github.com/user-attachments/assets/d63353d2-d1fb-4d69-92e9-423ab73313ee)
+
+![Screenshot 2025-05-29 164651](https://github.com/user-attachments/assets/d63353d2-d1fb-4d69-92e9-423ab73313ee)
 
 
 
